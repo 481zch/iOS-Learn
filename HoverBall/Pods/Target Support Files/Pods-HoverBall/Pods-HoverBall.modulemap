@@ -1,0 +1,6 @@
+framework module Pods_HoverBall {
+  umbrella header "Pods-HoverBall-umbrella.h"
+
+  export *
+  module * { export * }
+}
