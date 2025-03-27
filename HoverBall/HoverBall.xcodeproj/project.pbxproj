@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D0F912226CA8E8E7B395B5F6 /* Pods_HoverBall.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39387F1C2F6AB739E790DB5D /* Pods_HoverBall.framework */; };
+		EDF3ADA85BE75AB65B992480 /* Pods_HoverBall.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11F19F25704AD94A5114E049 /* Pods_HoverBall.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		39387F1C2F6AB739E790DB5D /* Pods_HoverBall.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HoverBall.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4561777B2D93E4B50054CD3C /* HoverBall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HoverBall.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		EF0D81C46EC2BF9E428A1F5B /* Pods-HoverBall.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HoverBall.debug.xcconfig"; path = "Target Support Files/Pods-HoverBall/Pods-HoverBall.debug.xcconfig"; sourceTree = "<group>"; };
-		FAD6DEF7C6AAFDF30084FB53 /* Pods-HoverBall.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HoverBall.release.xcconfig"; path = "Target Support Files/Pods-HoverBall/Pods-HoverBall.release.xcconfig"; sourceTree = "<group>"; };
+		11F19F25704AD94A5114E049 /* Pods_HoverBall.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HoverBall.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4535E8942D9413F500571B2A /* HoverBall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HoverBall.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D9410B0E0D442D370871DA9 /* Pods-HoverBall.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HoverBall.release.xcconfig"; path = "Target Support Files/Pods-HoverBall/Pods-HoverBall.release.xcconfig"; sourceTree = "<group>"; };
+		A8C2EC0E03F4E25319369843 /* Pods-HoverBall.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HoverBall.debug.xcconfig"; path = "Target Support Files/Pods-HoverBall/Pods-HoverBall.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		4561778D2D93E4B60054CD3C /* Exceptions for "HoverBall" folder in "HoverBall" target */ = {
+		4535E8A62D9413F600571B2A /* Exceptions for "HoverBall" folder in "HoverBall" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 4561777A2D93E4B50054CD3C /* HoverBall */;
+			target = 4535E8932D9413F500571B2A /* HoverBall */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4561777D2D93E4B50054CD3C /* HoverBall */ = {
+		4535E8962D9413F500571B2A /* HoverBall */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				4561778D2D93E4B60054CD3C /* Exceptions for "HoverBall" folder in "HoverBall" target */,
+				4535E8A62D9413F600571B2A /* Exceptions for "HoverBall" folder in "HoverBall" target */,
 			);
 			path = HoverBall;
 			sourceTree = "<group>";
@@ -39,48 +39,48 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		456177782D93E4B50054CD3C /* Frameworks */ = {
+		4535E8912D9413F500571B2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0F912226CA8E8E7B395B5F6 /* Pods_HoverBall.framework in Frameworks */,
+				EDF3ADA85BE75AB65B992480 /* Pods_HoverBall.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		456177722D93E4B50054CD3C = {
+		4535E88B2D9413F500571B2A = {
 			isa = PBXGroup;
 			children = (
-				4561777D2D93E4B50054CD3C /* HoverBall */,
-				4561777C2D93E4B50054CD3C /* Products */,
-				E5375A7703AF169080FB2A53 /* Pods */,
-				8B2287DA3FEAEBFE61373C43 /* Frameworks */,
+				4535E8962D9413F500571B2A /* HoverBall */,
+				4535E8952D9413F500571B2A /* Products */,
+				80DB4C1C135C303F68F8DC50 /* Pods */,
+				6CC79CFD329D831E24782C24 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		4561777C2D93E4B50054CD3C /* Products */ = {
+		4535E8952D9413F500571B2A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4561777B2D93E4B50054CD3C /* HoverBall.app */,
+				4535E8942D9413F500571B2A /* HoverBall.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8B2287DA3FEAEBFE61373C43 /* Frameworks */ = {
+		6CC79CFD329D831E24782C24 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				39387F1C2F6AB739E790DB5D /* Pods_HoverBall.framework */,
+				11F19F25704AD94A5114E049 /* Pods_HoverBall.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E5375A7703AF169080FB2A53 /* Pods */ = {
+		80DB4C1C135C303F68F8DC50 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				EF0D81C46EC2BF9E428A1F5B /* Pods-HoverBall.debug.xcconfig */,
-				FAD6DEF7C6AAFDF30084FB53 /* Pods-HoverBall.release.xcconfig */,
+				A8C2EC0E03F4E25319369843 /* Pods-HoverBall.debug.xcconfig */,
+				5D9410B0E0D442D370871DA9 /* Pods-HoverBall.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -88,64 +88,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4561777A2D93E4B50054CD3C /* HoverBall */ = {
+		4535E8932D9413F500571B2A /* HoverBall */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4561778E2D93E4B60054CD3C /* Build configuration list for PBXNativeTarget "HoverBall" */;
+			buildConfigurationList = 4535E8A72D9413F600571B2A /* Build configuration list for PBXNativeTarget "HoverBall" */;
 			buildPhases = (
-				416D8A19B33649BB65A15FC5 /* [CP] Check Pods Manifest.lock */,
-				456177772D93E4B50054CD3C /* Sources */,
-				456177782D93E4B50054CD3C /* Frameworks */,
-				456177792D93E4B50054CD3C /* Resources */,
-				0EDE83272ED640EA9167510F /* [CP] Embed Pods Frameworks */,
+				5BB58FBBB91390973C9EECF5 /* [CP] Check Pods Manifest.lock */,
+				4535E8902D9413F500571B2A /* Sources */,
+				4535E8912D9413F500571B2A /* Frameworks */,
+				4535E8922D9413F500571B2A /* Resources */,
+				1A8C4C09D8CC779F4BFFEEA6 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4561777D2D93E4B50054CD3C /* HoverBall */,
+				4535E8962D9413F500571B2A /* HoverBall */,
 			);
 			name = HoverBall;
 			productName = HoverBall;
-			productReference = 4561777B2D93E4B50054CD3C /* HoverBall.app */;
+			productReference = 4535E8942D9413F500571B2A /* HoverBall.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		456177732D93E4B50054CD3C /* Project object */ = {
+		4535E88C2D9413F500571B2A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					4561777A2D93E4B50054CD3C = {
+					4535E8932D9413F500571B2A = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 456177762D93E4B50054CD3C /* Build configuration list for PBXProject "HoverBall" */;
+			buildConfigurationList = 4535E88F2D9413F500571B2A /* Build configuration list for PBXProject "HoverBall" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 456177722D93E4B50054CD3C;
+			mainGroup = 4535E88B2D9413F500571B2A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 4561777C2D93E4B50054CD3C /* Products */;
+			productRefGroup = 4535E8952D9413F500571B2A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4561777A2D93E4B50054CD3C /* HoverBall */,
+				4535E8932D9413F500571B2A /* HoverBall */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		456177792D93E4B50054CD3C /* Resources */ = {
+		4535E8922D9413F500571B2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -155,7 +155,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		0EDE83272ED640EA9167510F /* [CP] Embed Pods Frameworks */ = {
+		1A8C4C09D8CC779F4BFFEEA6 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -172,7 +172,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HoverBall/Pods-HoverBall-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		416D8A19B33649BB65A15FC5 /* [CP] Check Pods Manifest.lock */ = {
+		5BB58FBBB91390973C9EECF5 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -197,7 +197,7 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		456177772D93E4B50054CD3C /* Sources */ = {
+		4535E8902D9413F500571B2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -207,15 +207,16 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		4561778F2D93E4B60054CD3C /* Debug */ = {
+		4535E8A82D9413F600571B2A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EF0D81C46EC2BF9E428A1F5B /* Pods-HoverBall.debug.xcconfig */;
+			baseConfigurationReference = A8C2EC0E03F4E25319369843 /* Pods-HoverBall.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G9GVYMRN3H;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HoverBall/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -236,15 +237,16 @@
 			};
 			name = Debug;
 		};
-		456177902D93E4B60054CD3C /* Release */ = {
+		4535E8A92D9413F600571B2A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FAD6DEF7C6AAFDF30084FB53 /* Pods-HoverBall.release.xcconfig */;
+			baseConfigurationReference = 5D9410B0E0D442D370871DA9 /* Pods-HoverBall.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G9GVYMRN3H;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HoverBall/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -265,7 +267,7 @@
 			};
 			name = Release;
 		};
-		456177912D93E4B60054CD3C /* Debug */ = {
+		4535E8AA2D9413F600571B2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -302,7 +304,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -328,7 +330,7 @@
 			};
 			name = Debug;
 		};
-		456177922D93E4B60054CD3C /* Release */ = {
+		4535E8AB2D9413F600571B2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -365,7 +367,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -387,25 +389,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		456177762D93E4B50054CD3C /* Build configuration list for PBXProject "HoverBall" */ = {
+		4535E88F2D9413F500571B2A /* Build configuration list for PBXProject "HoverBall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				456177912D93E4B60054CD3C /* Debug */,
-				456177922D93E4B60054CD3C /* Release */,
+				4535E8AA2D9413F600571B2A /* Debug */,
+				4535E8AB2D9413F600571B2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4561778E2D93E4B60054CD3C /* Build configuration list for PBXNativeTarget "HoverBall" */ = {
+		4535E8A72D9413F600571B2A /* Build configuration list for PBXNativeTarget "HoverBall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4561778F2D93E4B60054CD3C /* Debug */,
-				456177902D93E4B60054CD3C /* Release */,
+				4535E8A82D9413F600571B2A /* Debug */,
+				4535E8A92D9413F600571B2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 456177732D93E4B50054CD3C /* Project object */;
+	rootObject = 4535E88C2D9413F500571B2A /* Project object */;
 }

@@ -6,9 +6,8 @@ target 'HoverBall' do
   use_frameworks!
 
   # Pods for HoverBall
- pod 'SnapKit'
- pod 'Then'
- pod 'RxSwift'
- pod 'RxCocoa'
-
+pod 'SnapKit'
+pod 'Then'
+pod 'RxSwift'
+pod 'RxCocoa'
 end
